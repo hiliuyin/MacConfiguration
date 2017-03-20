@@ -1,2 +1,2 @@
 # Vim
-Person
+Personal Vim Configuraton.
