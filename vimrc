@@ -12,7 +12,7 @@ Plugin 'VundleVim/Vundle.vim'
 
 " Keep Plugin commands between vundle#begin/end.
 Plugin 'Valloric/YouCompleteMe'
-Plugin 'jlanzarotta/bufexplorer.vim'
+Plugin 'jlanzarotta/bufexplorer'
 Plugin 'scrooloose/nerdtree'
 
 Plugin 'taglist.vim'
