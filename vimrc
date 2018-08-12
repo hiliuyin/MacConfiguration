@@ -44,6 +44,9 @@ if (has("gui_macvim"))
     set guifont=Bitstream\ Vera\ Sans\ Mono\ 10  " List of fonts which will be used for the GUI version of Vim
 endif
 
+call pathogen#infect()
+call pathogen#helptags()
+
 syntax on                   " Switch syntax highlighting on according to the current value of the 'filetype' option
 
 colorscheme molokai         " set colorscheme
